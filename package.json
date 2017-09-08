@@ -1,0 +1,28 @@
+{
+  "name": "cvpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "inflight": "^1.0.6",
+    "node-font-awesome": "^1.0.2",
+    "react-fontawesome": "^1.6.1",
+    "wrappy": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon src/server.js"	
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moath14/CVpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moath14/CVpage/issues"
+  },
+  "homepage": "https://github.com/moath14/CVpage#readme"
+}
